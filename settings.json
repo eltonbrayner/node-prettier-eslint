@@ -1,0 +1,54 @@
+{
+  // Mine VSCode Settings
+  "terminal.integrated.fontSize": 14,
+
+  // Define o tema dos icones na sidebar
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "newUntitledFile",
+
+  // Configura tamanho e familia da fonte
+  "editor.tabSize": 2,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 20,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+
+  "explorer.compactFolders": false,
+  "editor.renderLineHighlight": "gutter",
+  "workbench.editor.labelFormat": "short",
+  "extensions.ignoreRecommendations": true,
+
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+
+  "breadcrumbs.enabled": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+
+  "editor.rulers": [80, 120],
+  "editor.formatOnSave": true,
+
+  "terminal.integrated.shell.osx": "/bin/zsh",
+
+  "emmet.syntaxProfiles": { "javascript": "jsx" },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.minimap.enabled": true,
+  "codesnap.backgroundColor": "#0984e3",
+  "workbench.colorTheme": "Firefox Dark",
+  "window.zoomLevel": 0
+}
+/*
+ Extensions:
+ Bracket Pair Colorizer
+ Coder Runner
+ CodeSnap
+ Color HighLight
+ ESLint
+ Firefox Theme
+ Live Server
+ Material Icon Theme
+ Prettier - Code formatter
+*/
+
