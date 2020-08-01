@@ -1,2 +1,4 @@
 # node-prettier-eslint
-NodeJS com Prettier e ESLint
+NodeJS basic archives with:
+- Prettier
+- ESLint
